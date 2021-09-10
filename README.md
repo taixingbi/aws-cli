@@ -7,6 +7,8 @@ sudo installer -pkg AWSCLIV2.pkg -target /
 #### config
 ```
 aws configure
+-- Aws Access key Id
+-- Aws Secret Access Id
 ```
 
 
